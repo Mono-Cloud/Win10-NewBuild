@@ -3,10 +3,15 @@ $workdir = "c:\InitialInstall\"
 
 # Check if work directory exists if not create it
 
-If (Test-Path -Path $workdir -PathType Container)
-{ Write-Host "$workdir already exists" -ForegroundColor Red}
-ELSE
-{ New-Item -Path $workdir  -ItemType directory }
+if (Test-Path -Path $workdir -PathType Container)
+
+{
+     Write-Host "$workdir already exists" -ForegroundColor Red
+}
+else
+{ 
+New-Item -Path $workdir  -ItemType directory 
+}
 
 # Download the installer (Linked is a link to the most recently updated Firefox)
 
