@@ -8,7 +8,7 @@ List of scripts to create
   * Privacy Badger
   * Https Everywhere
   * uBlock Origin
- * [ ] Install AV 
+ * [X] Install AV 
  * [ ] Pin/remove programs to the taskbar
  * [ ] Change windows update settings to include drivers
  * [ ] Change group policies to a standardised list
