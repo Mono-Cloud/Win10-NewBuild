@@ -12,7 +12,7 @@ List of scripts to create
  * [ ] Pin/remove programs to the taskbar
  * [ ] Change windows update settings to include drivers
  * [ ] Change group policies to a standardised list
- * [ ] Run Windows Update
+ * [X] Run Windows Update
  * [ ] Update Windows Defender
  * [ ] Add / Remove firewall rules from a standardised list
  * [ ] Disable telemetry
