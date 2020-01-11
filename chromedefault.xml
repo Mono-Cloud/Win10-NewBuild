@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<DefaultAssociations>
+
+<Association ApplicationName="Google Chrome" ProgId="ChromeHTML" Identifier=".htm"/>
+
+<Association ApplicationName="Google Chrome" ProgId="ChromeHTML" Identifier=".html"/>
+
+<Association ApplicationName="Google Chrome" ProgId="ChromeHTML" Identifier="http"/>
+
+<Association ApplicationName="Google Chrome" ProgId="ChromeHTML" Identifier="https"/>
+
+</DefaultAssociations
