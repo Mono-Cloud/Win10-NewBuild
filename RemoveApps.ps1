@@ -1,5 +1,4 @@
 #Uninstall 3D Builder:
-
 Get-AppxPackage *3dbuilder* | Remove-AppxPackage
 
 #Uninstall Alarms and Clock:
